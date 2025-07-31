@@ -10,7 +10,7 @@
 
 ![alt text](https://github.com/LoreQ3/homework/blob/main/img1.png)
 
-[Ссылка конфигурацию HAProxy](./task1/haproxy.cfg)
+[Ссылка на конфигурацию HAProxy](./task1/haproxy.cfg)
 
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
